@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Build App</string>
+    <string name="instructions">Press the button for a delicious joke!</string>
+    <string name="button_text">Tell Joke</string>
+    <string name="action_settings">Settings</string>
+    <string name="api_failure_message">Unable to get Joke</string>
+    <string name="fragment_name" />
+</resources>

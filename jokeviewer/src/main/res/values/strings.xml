@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Joke Viewer</string>
+    <string name="mock_joke">
+        Q: Is Google male or female?\n
+        "A: Female, because it doesn\'t let you finish a sentence before making a suggestion.",
+                "Girlfriend: \"Am I pretty or ugly?\"\n
+    </string>
+    <string name="no_joke">No Joke Passed.</string>
+</resources>
