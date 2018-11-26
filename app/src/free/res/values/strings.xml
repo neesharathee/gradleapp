@@ -1,4 +1,5 @@
 <resources>
-    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3115230279053082/6642445183</string>
+    <string name="app_id">ca-app-pub-3115230279053082~6238286353</string>
     <string name="flavour">Free</string>
 </resources>
